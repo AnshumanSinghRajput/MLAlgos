@@ -86,4 +86,11 @@ git push origin <branch-name>
 
 We're happy to merge valid pull requests to this repository!
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RULES:-
 
+   - Changes to readme file will not be accepted. Only code files or pdf files explaining and giving information about the algorithm and technique will be considered.
+   - No spamming allowed, if you have any doubt please mention it in comment section.
+   - Try to upload the file along with dataset.
+   - If you are uploading an algo/technique which is already uploaded then try to make a better version of it. Same file will not be accepted.
+   - Try to upload .python, .ipynb files.
